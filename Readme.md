@@ -3,4 +3,4 @@
 ## 1주차 과제
  * [인공지능 사례 분석]()
 ## 2주차 과제
-* [파이썬과 인공지능 기초수학](https://colab.research.google.com/drive/1ee5Imm5NBm1lpEaGiJ88tFqSDTdtnNPG#scrollTo=lKYEC19OxCas)
+* [파이썬과 인공지능 기초수학](https://github.com/kim43/kim-sia/blob/master/2%EC%A3%BC%EC%B0%A8%EA%B3%BC%EC%A0%9C.ipynb)
